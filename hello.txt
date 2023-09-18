@@ -1,0 +1,22 @@
+ output: 
+ Enter the filename : example.txt
+ 1 : this is phone number +918151894220
+ 2 : no phone number here
+ 3 : here we have one +829392938876
+ 4 : we have an email prakash81.82@gmail.in and a number +918768456234 
+ 5 : nothing of that sort here
+ 6 : Better hope the life-inspector doesn't come around while you have your
+ 7 : life in such a mess.
+ 8 : You can create your own opportunities this week.  Blackmail a senior executive.
+ 9 : Be different: conform.
+ 10 : Be cheerful while you are alive.
+ 11 : 		-- Phathotep, 24th Century B.C.
+ 12 : Q:	How many journalists does it take to screw in a light bulb?
+ 13 : A:	Three.  One to report it as an inspired government program to bring
+ 14 : 	light to the people, one to report it as a diabolical government plot
+ 15 : 	to deprive the poor of darkness, and one to win a Pulitzer prize for
+ 16 : 	reporting that Electric Company hired a light bulb-assassin to break
+ 17 : 	the bulb in the first place.
+ 18 : Q:	Why did the astrophysicist order three hamburgers?
+ 19 : A:	Because he was hungry.
+ 20 : Q:	Why haven't you graduated yet?
